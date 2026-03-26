@@ -8,7 +8,7 @@ I’m currently working on [Kyanit](https://github.com/zf-ran/kyanit), a note-sh
 
 ### Web Development
 
-The web development journy started from 2021 by me dicovering HTML.
+The web development journey started from 2021 by me dicovering HTML.
 
 ### Math Writing
 
